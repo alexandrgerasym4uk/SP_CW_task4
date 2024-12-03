@@ -1,0 +1,8 @@
+﻿  test.cpp
+D:\KPI\SP\lab4\gerasymchuk-test\stringProcessor.h(10,34): warning C4114: same type qualifier used more than once
+  (compiling source file '/test.cpp')
+  
+D:\KPI\SP\lab4\gerasymchuk-test\stringProcessor.h(19,12): warning C4267: 'return': conversion from 'size_t' to 'const int32_t', possible loss of data
+  (compiling source file '/test.cpp')
+  
+  gerasymchuk-test.vcxproj -> D:\KPI\SP\lab4\gerasymchuk-test\x64\Debug\gerasymchuk-test.exe
